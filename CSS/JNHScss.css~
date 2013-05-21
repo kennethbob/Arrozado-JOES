@@ -1,0 +1,829 @@
+body {
+   background-image: url('../images/check.jpg'); 
+   color: #333; 
+   font-size: .85em;
+   margin: 20; 
+   padding: 20;
+   font-family: "Segoe UI", Verdana, Helvetica, Sans-
+   float: right;
+}
+#logButton {
+   background-color: #DEB887;
+   font-style: italic;
+}
+.myWholeField {
+   background-color: white;
+   text-align: center;
+   height: 100px;
+}
+.wholeFS {
+   background-color: white;
+   width: 1272px;
+   height:1200px;
+   margin-left: 32px;
+   margin-top: -18px;
+}
+.myFSdiv {
+   width: 1300px;
+   text-align: center;
+   margin-left: 30px;
+}
+.myTabsDiv {
+   width: 800px;
+}
+#myName {
+   font-size: 25px;
+   margin-right: 100px;
+   font-family: REVOLUTION;
+   cursor: pointer;
+   color: black;
+}
+#myJNHShref {
+   text-decoration: none;
+}
+#myAddress {
+   color: black;
+   width: 200px; 
+   font-family: URW Bookman L
+   text-align: center;
+   margin-top: -45px;
+   margin-left: 525px;
+   font-size: 17px;
+}
+#myImage {
+   width: 100px;
+   margin-top: 5px;
+   height: 90px;
+   float: left;
+}
+#POL {
+   margin-left: 1170px;
+   margin-top: -91px;
+   height: 90px;
+}
+.menuFS {
+   float: right;
+   width: 200px;
+   height: 850px;
+   margin-top: 10px;
+}
+.getFS {
+   height: 450px;
+   background-color: #FEFEF2;
+   cursor: pointer;
+}
+#FSmens {
+   height: 100px;
+   border-radius: 5px 5px 5px 5px;
+}
+#IMG {
+   border-radius: 5px 5px 5px 5px;
+}
+#follow {
+   color: red;
+}
+#imgMen {
+   height: 40px;
+   width: 40px;
+}
+#imgTwit {
+   height: 41px;
+   width: 42px;
+}
+#imgGmail {
+   height: 38.5px;
+   width: 39px;
+}
+#imgYah {
+   height: 41px;
+   width: 42.5px;
+}
+#GET, #TEG {
+   font-family: Coalition;
+   text-align: center;
+}
+#imgButton {
+   margin-left: 33px;
+   margin-top: 10px;
+}
+#myIMG{
+   width: 170px;
+   margin-top: 30px;
+}
+.menus {
+   border: 20px #A9A9A9 solid;
+   width: 1253px;
+   margin-left: -11px;
+   margin-top: -5px;
+}
+#myHREF {
+   padding: 20px;
+   background-color: #A9A9A9;
+   color: white;
+   font-size: 12px;
+   text-decoration: none;
+}
+#myHREF:hover{
+   color: #00FFFF;
+}
+#div {
+   background-color: #A9A9A9;
+   width: 1200px;
+   float: right;
+   margin-top: -28px;
+}
+#myButton4 {
+   width: 17px;
+   height: 17px;
+   float: right;
+   margin-top: 4px;
+   margin-right: 4px;
+}
+#mySearch {
+   margin-left: 8px;
+   margin-top: 1px;
+}
+#myFS {
+   border-color: #A9A9A9;
+   width: 210px;
+   margin-left: 960px;
+   margin-top: 1px;
+   height: 20px;
+   border-radius: 50px 50px 50px 50px;
+}
+#hrefMenu {
+   color: #1E90FF;
+   text-decoration: none;
+}
+#hashTag {
+   color: #A0522D;
+   text-decoration: none;
+}
+#hashTag:hover {
+   border-bottom-color: black;
+   text-decoration: underline !important;
+   padding: 5px;
+   color: #000000;
+}
+#hrefMenu:hover {
+   background-color: #00BFFF;
+   padding:2px;
+   color: white;
+}
+.JNHSfsDiv {
+   width: 790px;
+   margin-left: 260px;
+}
+.JNHSfield {
+   width: 780px;
+   height: 300px;
+   margin-left: -10px;
+   margin-top: 10px;
+}
+#julitaIMG {
+   width: 780px;
+   height: 300px;
+}
+.myLOG {
+   width: 250px;
+   margin-top: -316px;
+   margin-left: -4px;
+}
+.logFS {
+   background-color: #FFF8DC;
+   border-radius: 5px 5px 5px 5px;
+}
+#member {
+   color: #DAA520;
+}
+.menuDiv {
+   width: 230px;
+   height: 400px;
+}
+.nameDiv {
+   text-align: center;
+   color: black;
+}
+#nameMine {
+   color: #1E90FF;
+   text-decoration: none;
+}
+.categoriesClass {
+   height: 300px;
+   width: 205px;
+   text-align: center;
+}
+#myCat {
+   font-size: 17px;
+   text-align: center;
+   background-color: #008000;
+   margin-top: -5px;
+   margin-left: -11px;
+   width: 226px;
+   height: 25px;
+   color: #FFF0F5;
+}
+#myCatMenu, #myCatMenu1, #myCatMenu2, #myCatMenu3, #myCatMenu4, #myCatMenu5, #myCatMenu6, #myCatMenu7, #myCatMenu8 {
+   text-decoration: none;
+   color: #FF4500;
+}
+#myCatMenu:hover {
+   background-color: black;
+   padding-left: 67px;
+   padding-right: 67px;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   color: white;
+}
+#myCatMenu1:hover {
+   background-color: black;
+   padding-left: 81px;
+   padding-right: 81px;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   color: white;
+}
+#myCatMenu2:hover {
+   background-color: black;
+   padding-left: 82px;
+   padding-right: 81px;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   color: white;
+}
+#myCatMenu3:hover {
+   background-color: black;
+   padding-left: 62px;
+   padding-right: 62px;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   color: white;
+}
+#myCatMenu4:hover {
+   background-color: black;
+   padding-left: 88px;
+   padding-right: 87px;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   color: white;
+}
+#myCatMenu5:hover {
+   background-color: black;
+   padding-left: 80px;
+   padding-right: 80px;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   color: white;
+}
+#myCatMenu6:hover {
+   background-color: black;
+   padding-left: 79px;
+   padding-right: 78px;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   color: white;
+}
+#myCatMenu7:hover {
+   background-color: black;
+   padding-left: 84px;
+   padding-right: 83px;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   color: white;
+}
+#myCatMenu8:hover {
+   background-color: black;
+   padding-left: 89px;
+   padding-right: 83px;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   color: white;
+}
+.principalDiv {
+
+   width: 750px;
+   float: right;
+   margin-right: 30px;
+   margin-top: -600px;
+}
+#myH4 {
+   float: right;
+   margin-top: -150px;
+   margin-right: 440px;
+}
+#details {
+   float: right;
+   margin-right: 110px;
+   margin-top: -130px;
+}
+#myDetails {
+   text-decoration: none;
+}
+#hrLocation {
+   margin-top: 300px;
+   width: 960px;
+   margin-left: 40px;
+}
+#teleIMG {
+   height: 30px;
+   width: 30px;
+   margin-left: 40px;
+}
+#myHotline {
+   margin-left: 5px;
+}
+.myHotDiv {
+   width: 450px;
+}
+#h4Hotline {
+   margin-top: -16px;
+   margin-left: 135px;
+}
+#homeIMG {
+   height: 30px;
+   width: 30px;
+   margin-left: 40px;
+}
+#siteIMG {
+   height: 30px;
+   width: 30px;
+}
+.mySites {
+   width: 300px;
+   float: right;
+   margin-right: 700px;
+   margin-top: -90px;
+   cursor: pointer;
+}
+.aboutDiv {
+   width: 400px;
+   height: 400px;
+   float: left;
+   margin-left: 250px;
+   margin-top: -280px;
+}
+#prescription {
+   font-family: Century Schoolbook L;
+}
+.JNHS_form {
+   margin-left: 265px;
+   width: 790px;
+   height: 320px;
+   margin-top: 10px;
+}
+.JNHSfield {
+   height: 600px;
+   margin-top: 30px;
+}
+#inputFS {
+   width: 200px;
+   border-radius: 5px 5px 5px 5px;
+   background-color: #FAEBD7;
+}
+.firstDiv {
+   margin-top: 15px;
+}
+.secondDiv {
+   float: right;
+   margin-top: -509px;
+   margin-right: 210px;
+}
+#FSimage {
+   height: 180px;
+   width: 180px;
+   float: right;
+   margin-top: -200px;
+   margin-right: 20px;
+}
+#enrollIMG {
+   margin-top: 30px;
+   width: 760px; 
+   height: 80px; 
+}
+.JNHSfieldIMG {
+   margin-top: 10px;
+}
+.mathFS {
+   width: 450px;
+   float: right;
+}.myLOGin {
+   width: 250px;
+   margin-top: 10px;
+   margin-left: -4px;
+}
+.mySubDiv {
+   width: 790px;
+   float: right;
+   height: 800px;
+   margin-top: 10px;
+   margin-right: -20px;   
+}
+.mySubFS {
+   border-color: #E9967A;
+   margin-top: 20px;
+   margin-right: 100px;
+   width: 650px;
+}
+#catSub {
+   margin-left: 30px;
+}
+#description {
+   margin-left: 60px;
+}
+#myStrong {
+   color: red;
+}
+#staff {
+   margin-left: 215px;
+   font-size: 20px;
+}
+#subIMGteach {
+   height: 100px;
+   width: 100px;
+}
+#subIMGteach1 {
+   height: 100px;
+   width: 100px;
+}
+#subIMGteach2 {
+   height: 100px;
+   width: 100px;
+}
+#subIMGteach3 {
+   height: 100px;
+   width: 100px;
+}
+#subIMGteach4 {
+   height: 100px;
+   width: 100px;
+}
+#subIMGteach5 {
+   height: 100px;
+   width: 100px;
+}
+#subIMGteach6 {
+   height: 100px;
+   width: 100px;
+}
+#subIMGteach7 {
+   height: 100px;
+   width: 100px;
+}
+#subIMGteach8 {
+   height: 100px;
+   width: 100px;
+}
+#subIMGteach9 {
+   height: 100px;
+   width: 100px;
+}
+#subIMGteach10 {
+   height: 100px;
+   width: 100px;
+}
+#subIMGteach11 {
+   height: 100px;
+   width: 100px;
+}
+#subIMGteach12 {
+   height: 100px;
+   width: 100px;
+}
+#subIMGteach13 {
+   height: 100px;
+   width: 100px;
+}
+#subIMGteach14 {
+   height: 100px;
+   width: 100px;
+}
+#subIMGteach15 {
+   height: 100px;
+   width: 100px;
+}
+#subIMGteach16 {
+   height: 100px;
+   width: 100px;
+}#subIMGteach17 {
+   height: 100px;
+   width: 100px;
+}
+#subIMGteach18 {
+   height: 100px;
+   width: 100px;
+}
+#subIMGteach19 {
+   height: 100px;
+   width: 100px;
+}
+#subIMGteach20 {
+   height: 100px;
+   width: 100px;
+}
+#subIMGteach21 {
+   height: 100px;
+   width: 100px;
+}
+#subIMGteach22 {
+   height: 100px;
+   width: 100px;
+}
+#subIMGteach23 {
+   height: 100px;
+   width: 100px;
+}
+#subIMGteach24 {
+   height: 100px;
+   width: 100px;
+}
+#subIMGteach25 {
+   height: 100px;
+   width: 100px;
+}
+#subIMGteach26 {
+   height: 100px;
+   width: 100px;
+}
+#subIMGteach27 {
+   height: 100px;
+   width: 100px;
+}
+#subIMGteach {
+   height: 100px;
+   width: 100px;
+}
+#subIMGteach28 {
+   height: 100px;
+   width: 100px;
+}
+#subIMGteach29 {
+   height: 100px;
+   width: 100px;
+}
+#subIMGteach30 {
+   height: 100px;
+   width: 100px;
+}
+#subIMGteach31 {
+   height: 100px;
+   width: 100px;
+}
+#subIMGteach32 {
+   height: 100px;
+   width: 100px;
+}
+#subIMGteach33 {
+   height: 100px;
+   width: 100px;
+}
+#subIMGteach34 {
+   height: 100px;
+   width: 100px;
+}
+.s1 {
+   width: 150px;
+   margin-left: 300px;
+}
+.s2 {
+   width: 150px;
+   margin-left: 100px; 
+}
+.s3 {
+   width: 150px;
+   float: right; 
+   margin-top: -212px;
+   margin-right: 338px;
+}
+.s4 {
+   width: 150px;
+   float: right; 
+   margin-top: -212px;
+   margin-right: 140px;
+}
+.s5 {
+   width: 150px;
+   margin-top: ;
+   margin-right: ;
+}
+.s6 {
+   width: 150px;
+   float: right;
+   margin-top: -212px;
+   margin-right: 440px;
+}
+.s7 {
+   width: 150px;
+   float: right;
+   margin-top: -212px;
+   margin-right: 240px;
+}
+.s8 {
+   width: 150px;
+   float: right;
+   margin-top: -212px;
+   margin-right: 30px;
+}
+.s9 {
+   width: 150px;
+   margin-top: -0px;
+   margin-right: 30px;
+}
+.s10 {
+   width: 150px;
+   float: right;
+   margin-top: -210px;
+   margin-right: 440px;
+}
+.s11 {
+   width: 150px;
+   float: right;
+   margin-top: -210px;
+   margin-right: 240px;
+}
+.s12 {
+   width: 150px;
+   float: right;
+   margin-top: -210px;
+   margin-right: 30px;
+}
+.s13 {
+   width: 150px;
+   margin-left: 55px;
+}
+.s14 {
+   width: 150px;
+   float: right;
+   margin-top: -210px;
+   margin-right: 400px;
+}
+.s15 {
+   width: 150px;
+   float: right;
+   margin-top: -210px;
+   margin-right: 210px;
+}
+.s16 {
+   width: 150px;
+   float: right;
+   margin-top: -210px;
+   margin-right: 20px;
+}
+.s17 {
+   width: 150px;
+   margin-left: 55px;
+}
+.s18 {
+   width: 150px;
+   float: right;
+   margin-top: -210px;
+   margin-right: 400px;
+}
+.s19 {
+   width: 150px;
+   float: right;
+   margin-top: -210px;
+   margin-right: 210px;
+}
+.s20 {
+   width: 150px;
+   float: right;
+   margin-top: -210px;
+   margin-right: 20px;
+}
+.s21 {
+   width: 150px;
+   margin-left: 55px;
+}
+.s22 {
+   width: 150px;
+   float: right;
+   margin-top: -210px;
+   margin-right: 400px;
+
+}
+.s23 {
+   width: 150px;
+   float: right;
+   margin-top: -210px;
+   margin-right: 210px;
+
+}
+.s24 {
+   width: 150px;
+   float: right;
+   margin-top: -210px;
+   margin-right: 20px;
+}
+.s25 {
+   width: 150px;
+   margin-left: 55px;
+}
+.s26 {
+   width: 150px;
+   float: right;
+   margin-top: -210px;
+   margin-right: 400px;
+}
+.s27 {
+   width: 150px;
+   float: right;
+   margin-top: -210px;
+   margin-right: 210px;
+}
+.s28 {
+   width: 150px;
+   float: right;
+   margin-top: -210px;
+   margin-right: 20px;
+}
+.s29 {
+   width: 150px;
+   margin-left: 55px;
+}
+.s30 {
+   width: 150px;
+   float: right;
+   margin-top: -210px;
+   margin-right: 400px;
+}
+.s31 {
+   width: 150px;
+   float: right;
+   margin-top: -210px;
+   margin-right: 210px;
+}
+.s32 {
+   width: 150px;
+   float: right;
+   margin-top: -210px;
+   margin-right: 20px;
+}
+.s33 {
+   width: 150px;
+   margin-left: 55px;
+}
+.s34 {
+   width: 150px;
+   float: right;
+   margin-top: -180px;
+   margin-right: 400px;
+}
+.s35 {
+   width: 150px;
+   float: right;
+   margin-top: -180px;
+   margin-right: 210px;
+}
+#nextButton {
+   border-radius: 10px 10px 10px 10px;
+   background-color: #00CED1;
+}
+#nextButton1 {
+   margin-left: -275px;
+   border-radius: 10px 10px 10px 10px;
+   background-color: #00CED1;
+}
+#nextButton2 {
+   margin-right: -278px;
+   border-radius: 10px 10px 10px 10px;
+   background-color: #00CED1;
+}
+#nextButton3 {
+   margin-left: -380px;
+   border-radius: 10px 10px 10px 10px;
+   background-color: #00CED1;
+}
+.myMenuMaterDiv {
+   width: 790px;
+   float: right;
+   height: 800px;
+   margin-top: 60px;
+   margin-right: -20px;   
+}
+.myMaterFS {
+   border-color: #E9967A;
+   margin-top: 20px;
+   margin-right: 100px;
+   width: 650px;
+}
+#divHR {
+   width: 720px;
+   margin-right: 70px;
+}
+#myList {
+   margin-top: 25px;
+}
+#require {
+   margin-left: 60px;
+   font-family: Newtown;
+   font-size: 17px;
+}
+#require_get {
+   margin-left: 120px;
+}
+#get_it {
+   margin-left: 150px;
+}
+#myh10 {
+   font-family: Nimbus Mono L;
+}
